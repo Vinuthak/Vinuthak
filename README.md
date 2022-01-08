@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VinuthaNithyanandn
+- 👀 I’m interested in writing code
+- 🌱 I’m currently learning C programming language
