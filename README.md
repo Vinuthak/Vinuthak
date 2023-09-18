@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VinuthaNithyanandn
+- 👋 Hi, I’m @VinuthaNithyanandan
 - 👀 Love with coding
 - 🌱 Roaring with ROR
