@@ -4,5 +4,5 @@
 - Learning Java script
 - Then TypeScript
 - Will speed up with PlayWright
-_practice testing
-_Software Automated Tester 2025
+- Practice testing
+- Software Automated Tester 2025
