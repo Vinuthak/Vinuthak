@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @VinuthaNithyanandan
 - 👀 Love with coding
 - 🌱 Roaring with ROR
+- Learning Java script 
