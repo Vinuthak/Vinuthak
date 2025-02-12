@@ -5,4 +5,4 @@
 - Then TypeScript
 - Will speed up with PlayWright
 _practice testing
-Software Automated Tester 2025
+_Software Automated Tester 2025
