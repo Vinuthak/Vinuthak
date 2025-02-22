@@ -2,7 +2,7 @@
 - 👀 Love with coding
 - 🌱 Roaring with ROR
 - Learning Java script
-- Then TypeScript
-- Will speed up with PlayWright
-- Practice testing
-- Software Automated Tester 2025
+- Then REACT
+- Will speed up with HTML and CSS and Responsive Web Design
+- Practice and practice
+- Frontend  Developer 2025
