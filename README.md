@@ -5,4 +5,5 @@
 - Then REACT
 - Will speed up with HTML and CSS and Responsive Web Design
 - Practice and practice
+- Make sample projects
 - Frontend  Developer 2025
