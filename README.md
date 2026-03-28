@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @VinuthaNithyanandan
 - 👀 Love with coding
-- 🌱 Roaring with ROR
-- Learning Java script
-- Then REACT
-- Will speed up with HTML and CSS and Responsive Web Design
-- Practice and practice
-- Make sample projects
--A successful Frontend  Developer 2026
--Earned my First job as a front end developer.
+- 🌱 DJ with Django
+- In process
+-A soon tobe successfull Backend Developer 2026
